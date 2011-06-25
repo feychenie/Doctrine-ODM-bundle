@@ -1,0 +1,7 @@
+The complete Doctrine ODM mongodb library is dispatched on 3 repositories :
+doctrine/mongodb-odm
+doctrine/mongodb
+doctrine/common
+
+The purpose of this repository is to have an "all-in-one" of any tagged version, starting from 1.0.0BETA3 
+
